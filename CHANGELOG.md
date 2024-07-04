@@ -1,5 +1,24 @@
 # Changelog
 
+## [3.4.0](https://github.com/scottmckendry/cyberdream.nvim/compare/v3.3.0...v3.4.0) (2024-07-04)
+
+
+### Features
+
+* **dx:** port folke's "dev mode" from tokyonight ([1abba18](https://github.com/scottmckendry/cyberdream.nvim/commit/1abba1897d0f527c7a10ffc1ef06e8920c7a3f7a))
+* **extensions:** add kubectl.nvim ([#88](https://github.com/scottmckendry/cyberdream.nvim/issues/88)) ([9820cc3](https://github.com/scottmckendry/cyberdream.nvim/commit/9820cc3ce324972501e9883f2073e9bd62fd6e1f))
+
+
+### Bug Fixes
+
+* **ci:** ignore selene warning for .lazy.lua ([0d9bcca](https://github.com/scottmckendry/cyberdream.nvim/commit/0d9bcca9ee70ab1f8c20de1b066dbb4ef76c7548))
+* use bg instead of fg for diff highlight groups ([852cede](https://github.com/scottmckendry/cyberdream.nvim/commit/852cede7e655b86e3d51562ebfb886e1b635d68a))
+
+
+### Performance Improvements
+
+* **ci:** use pre-compiled selene ([e8608c3](https://github.com/scottmckendry/cyberdream.nvim/commit/e8608c315a3b44ce912f3d7d7f7dfa8cdbb1b160))
+
 ## [3.3.0](https://github.com/scottmckendry/cyberdream.nvim/compare/v3.2.0...v3.3.0) (2024-06-29)
 
 
